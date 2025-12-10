@@ -1,0 +1,1 @@
+# core package: domain logic (clients, models, services, repositories)
